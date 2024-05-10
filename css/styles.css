@@ -142,6 +142,36 @@
     text-align: center;
     font-family: "Eczar";
 }
+.footerDiv{
+    background-color: black;
+    padding: 40px;
+    text-align: center;
+    color: white;
+
+}
+.iconos-div{
+    display: flex;
+    flex-direction: row;
+    
+}
+.iconos-div > a{
+    margin: 0px 5px;
+}
+.logoimgoficial{
+    width: 100px;
+    height: auto;
+    border-radius: 20%;
+}
+.footerDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footerDiv > a{
+    text-decoration: none;
+    color: white;
+}
+
 
 /* Estilos responsivos */
 @media only screen and (max-width: 768px) {
