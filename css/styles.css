@@ -158,14 +158,14 @@
     margin: 0px 5px;
 }
 .logoimgoficial{
-    width: 100px;
     height: auto;
-    border-radius: 20%;
+    border-radius: 50%;
 }
 .footerDiv{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    
 }
 .footerDiv > a{
     text-decoration: none;

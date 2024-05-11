@@ -22,7 +22,7 @@
     flex-flow: row wrap;
     justify-content: space-around;
     padding: 0px;
-    margin: 0px;
+    margin-bottom: 35px;
 }
 .container-div > section > div > h4{
     text-align: center;
